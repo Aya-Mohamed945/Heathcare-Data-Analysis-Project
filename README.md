@@ -32,7 +32,7 @@ This is a collaborative project aimed at analyzing hospital data to uncover weak
 > ⚠️ Note: The dataset is **not real hospital data** (dummy/simulated).  
 
 ## 🚀 How to Run  
-1. Open the Colab notebook: [Google Colab Link](#) _([replace with your actual link](https://colab.research.google.com/drive/1MCptkA1mbUyYv45hiFpwhhmgB72sRQVa?usp=sharing))_.  
+1. Open the Colab notebook: [Google Colab Link]([#](https://colab.research.google.com/drive/1MCptkA1mbUyYv45hiFpwhhmgB72sRQVa?usp=sharing)).  
 2. Install required libraries (Pandas, Matplotlib, Scikit-learn).  
 3. Run the notebook to reproduce visualizations and machine learning models.  
 
